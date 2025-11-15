@@ -57,7 +57,6 @@ del Q_sarsas ; del V_sarsas ; del Q_track_sarsas
 ```
 
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
 <img width="512" height="727" alt="image" src="https://github.com/user-attachments/assets/0c1b8181-a7ee-47e9-ac45-e1908760fbdb" />
 
 ## FVMC:
@@ -69,8 +68,6 @@ Mention the optimal policy, optimal value function , success rate for the optima
 
 <img width="618" height="72" alt="image" src="https://github.com/user-attachments/assets/0608ce1f-dd46-4be0-adae-d6fe6ad6a2f3" />
 
-
-Include plot comparing the state value functions of Monte Carlo method and SARSA learning.
 
 ## FVMC:
 <img width="1477" height="482" alt="image" src="https://github.com/user-attachments/assets/e12a1de7-0e27-4199-a07e-25f439387bb6" />
